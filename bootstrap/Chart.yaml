@@ -9,7 +9,7 @@ appVersion: 0.0.1
 dependencies:
   - name: bootstrap-project
     version: "0.0.6"
-    repository: https://github.com/kborup-redhat/helm-charts
+    repository: https://github.com/kborup-redhat/helm-charts/charts/
   - name: argocd-operator
     version: "0.0.10"
-    repository: https://github.com/kborup-redhat/helm-charts 
+    repository: https://github.com/kborup-redhat/helm-charts/charts/ 
